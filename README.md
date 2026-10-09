@@ -456,11 +456,6 @@ Instacart Online Grocery Basket Analysis/
 │       └── 08_Prove whether missing is an actual source department.sql
 ├── Python/
 │   └── Python eda.py
-├── src/
-│   ├── data/
-│   ├── features/
-│   ├── analysis/
-│   └── visualization/
 ├── Power BI/
 │   └── Instacart Analytics.pbix
 │   
