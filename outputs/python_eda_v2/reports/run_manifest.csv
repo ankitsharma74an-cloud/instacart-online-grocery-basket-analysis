@@ -1,0 +1,12 @@
+﻿property,value
+database,instacart_analytics
+analysis_set,prior
+basket_top_n,100
+minimum_pair_orders,100
+maximum_associations,500
+minimum_reorder_product_purchases,1000
+start_time,2026-10-01T10:59:00.716322
+end_time,2026-10-01T11:00:12.513308
+duration_seconds,71.8
+python_version,"3.14.7 (tags/v3.14.7:823f032, Aug  5 2026, 10:51:32) [MSC v.1944 64 bit (AMD64)]"
+source_policy,analytics.* validated outputs only; no public.* reads for EDA

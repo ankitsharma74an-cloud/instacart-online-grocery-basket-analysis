@@ -1,0 +1,501 @@
+﻿product_a,product_a_name,product_b,product_b_name,orders_together,support,confidence_a_to_b_pct,confidence_b_to_a_pct,lift,product_pair
+21709,Sparkling Lemon Water,35221,Lime Sparkling Water,8546,0.002658,26.06,18.36,18.0024,Sparkling Lemon Water + Lime Sparkling Water
+35221,Lime Sparkling Water,44632,Sparkling Water Grapefruit,13284,0.004132,28.54,17.51,12.0906,Lime Sparkling Water + Sparkling Water Grapefruit
+21709,Sparkling Lemon Water,44632,Sparkling Water Grapefruit,9224,0.002869,28.13,12.16,11.9181,Sparkling Lemon Water + Sparkling Water Grapefruit
+20114,Jalapeno Peppers,28842,Bunched Cilantro,5758,0.001791,13.53,12.65,9.5527,Jalapeno Peppers + Bunched Cilantro
+15290,Orange Bell Pepper,24184,Red Peppers,5193,0.001615,13.25,9.39,7.7066,Orange Bell Pepper + Red Peppers
+21938,Green Bell Pepper,24184,Red Peppers,6742,0.002097,12.15,12.2,7.0667,Green Bell Pepper + Red Peppers
+28842,Bunched Cilantro,44142,Red Onion,4267,0.001327,9.37,9.92,7.0053,Bunched Cilantro + Red Onion
+10749,Organic Red Bell Pepper,21938,Green Bell Pepper,6828,0.002124,11.88,12.31,6.8823,Organic Red Bell Pepper + Green Bell Pepper
+16759,Organic Carrot Bunch,44359,Organic Small Bunch Celery,4875,0.001516,13.61,7.16,6.4257,Organic Carrot Bunch + Organic Small Bunch Celery
+20114,Jalapeno Peppers,31717,Organic Cilantro,5840,0.001817,13.72,8.4,6.345,Jalapeno Peppers + Organic Cilantro
+26209,Limes,28842,Bunched Cilantro,12491,0.003885,8.88,27.43,6.2718,Limes + Bunched Cilantro
+20114,Jalapeno Peppers,26209,Limes,11393,0.003544,26.77,8.1,6.1196,Jalapeno Peppers + Limes
+24964,Organic Garlic,46667,Organic Ginger Root,10792,0.003357,9.83,20.72,6.0677,Organic Garlic + Organic Ginger Root
+20114,Jalapeno Peppers,44142,Red Onion,3401,0.001058,7.99,7.91,5.9731,Jalapeno Peppers + Red Onion
+28842,Bunched Cilantro,29487,Roma Tomato,3353,0.001043,7.36,8.34,5.8877,Bunched Cilantro + Roma Tomato
+8518,Organic Red Onion,31717,Organic Cilantro,8498,0.002643,12.69,12.22,5.8663,Organic Red Onion + Organic Cilantro
+9076,Blueberries,43352,Raspberries,5824,0.001812,10.41,10.1,5.8062,Blueberries + Raspberries
+26209,Limes,31717,Organic Cilantro,17565,0.005464,12.49,25.26,5.7758,Limes + Organic Cilantro
+15290,Orange Bell Pepper,21938,Green Bell Pepper,3891,0.00121,9.93,7.01,5.7531,Orange Bell Pepper + Green Bell Pepper
+34126,Organic Italian Parsley Bunch,44359,Organic Small Bunch Celery,7380,0.002296,12.17,10.84,5.7479,Organic Italian Parsley Bunch + Organic Small Bunch Celery
+22935,Organic Yellow Onion,24964,Organic Garlic,22073,0.006866,19.46,20.11,5.699,Organic Yellow Onion + Organic Garlic
+31717,Organic Cilantro,34126,Organic Italian Parsley Bunch,7455,0.002319,10.72,12.3,5.6866,Organic Cilantro + Organic Italian Parsley Bunch
+12341,Hass Avocados,43352,Raspberries,5064,0.001575,10.08,8.79,5.624,Hass Avocados + Raspberries
+24964,Organic Garlic,34126,Organic Italian Parsley Bunch,11539,0.003589,10.51,19.03,5.5743,Organic Garlic + Organic Italian Parsley Bunch
+31717,Organic Cilantro,46667,Organic Ginger Root,6272,0.001951,9.02,12.04,5.5681,Organic Cilantro + Organic Ginger Root
+22825,Organic D'Anjou Pears,39928,Organic Kiwi,4205,0.001308,8.6,8.39,5.5118,Organic D'Anjou Pears + Organic Kiwi
+29487,Roma Tomato,44142,Red Onion,2903,0.000903,7.22,6.75,5.3963,Roma Tomato + Red Onion
+39928,Organic Kiwi,43122,Organic Bartlett Pear,3138,0.000976,6.26,8.32,5.336,Organic Kiwi + Organic Bartlett Pear
+17794,Carrots,44359,Organic Small Bunch Celery,8217,0.002556,11.3,12.07,5.3338,Carrots + Organic Small Bunch Celery
+30391,Organic Cucumber,44359,Organic Small Bunch Celery,8581,0.002669,10.67,12.6,5.0396,Organic Cucumber + Organic Small Bunch Celery
+4605,Yellow Onions,34358,Garlic,4180,0.0013,5.71,11.42,5.0158,Yellow Onions + Garlic
+27521,Organic Lacinato (Dinosaur) Kale,44359,Organic Small Bunch Celery,4502,0.0014,10.45,6.61,4.9355,Organic Lacinato (Dinosaur) Kale + Organic Small Bunch Celery
+8174,Organic Navel Orange,22825,Organic D'Anjou Pears,3200,0.000995,7.49,6.54,4.923,Organic Navel Orange + Organic D'Anjou Pears
+41220,Organic Romaine Lettuce,44359,Organic Small Bunch Celery,3630,0.001129,10.41,5.33,4.9145,Organic Romaine Lettuce + Organic Small Bunch Celery
+27521,Organic Lacinato (Dinosaur) Kale,46667,Organic Ginger Root,3408,0.00106,7.91,6.54,4.8842,Organic Lacinato (Dinosaur) Kale + Organic Ginger Root
+9839,Organic Broccoli,27104,Fresh Cauliflower,4121,0.001282,10.64,5.76,4.7799,Organic Broccoli + Fresh Cauliflower
+20114,Jalapeno Peppers,34358,Garlic,2313,0.000719,5.43,6.32,4.7714,Jalapeno Peppers + Garlic
+44359,Organic Small Bunch Celery,46667,Organic Ginger Root,5246,0.001632,7.7,10.07,4.7552,Organic Small Bunch Celery + Organic Ginger Root
+16797,Strawberries,43352,Raspberries,12106,0.003766,8.47,21.0,4.7234,Strawberries + Raspberries
+34126,Organic Italian Parsley Bunch,46667,Organic Ginger Root,4566,0.00142,7.53,8.77,4.6489,Organic Italian Parsley Bunch + Organic Ginger Root
+22935,Organic Yellow Onion,44359,Organic Small Bunch Celery,11064,0.003442,9.75,16.25,4.6055,Organic Yellow Onion + Organic Small Bunch Celery
+8424,Broccoli Crown,25890,Boneless Skinless Chicken Breasts,3023,0.00094,7.19,6.01,4.5972,Broccoli Crown + Boneless Skinless Chicken Breasts
+27521,Organic Lacinato (Dinosaur) Kale,34126,Organic Italian Parsley Bunch,3725,0.001159,8.65,6.14,4.5869,Organic Lacinato (Dinosaur) Kale + Organic Italian Parsley Bunch
+8174,Organic Navel Orange,39928,Organic Kiwi,3050,0.000949,7.14,6.08,4.5775,Organic Navel Orange + Organic Kiwi
+26604,Organic Blackberries,43352,Raspberries,5017,0.001561,8.13,8.7,4.5318,Organic Blackberries + Raspberries
+15290,Orange Bell Pepper,44142,Red Onion,2341,0.000728,5.97,5.44,4.4653,Orange Bell Pepper + Red Onion
+8518,Organic Red Onion,20114,Jalapeno Peppers,3954,0.00123,5.9,9.29,4.4587,Organic Red Onion + Jalapeno Peppers
+4605,Yellow Onions,20114,Jalapeno Peppers,4252,0.001323,5.81,9.99,4.3897,Yellow Onions + Jalapeno Peppers
+22825,Organic D'Anjou Pears,37646,Organic Gala Apples,4861,0.001512,9.94,6.67,4.3857,Organic D'Anjou Pears + Organic Gala Apples
+16759,Organic Carrot Bunch,27521,Organic Lacinato (Dinosaur) Kale,2098,0.000653,5.86,4.87,4.3722,Organic Carrot Bunch + Organic Lacinato (Dinosaur) Kale
+8518,Organic Red Onion,24964,Organic Garlic,9970,0.003101,14.88,9.08,4.3587,Organic Red Onion + Organic Garlic
+8277,Apple Honeycrisp Organic,22825,Organic D'Anjou Pears,5629,0.001751,6.62,11.51,4.3514,Apple Honeycrisp Organic + Organic D'Anjou Pears
+5785,Organic Reduced Fat 2% Milk,27086,Half & Half,4447,0.001383,9.3,6.42,4.3175,Organic Reduced Fat 2% Milk + Half & Half
+22935,Organic Yellow Onion,34126,Organic Italian Parsley Bunch,9225,0.002869,8.13,15.22,4.3132,Organic Yellow Onion + Organic Italian Parsley Bunch
+19057,Organic Large Extra Fancy Fuji Apple,22825,Organic D'Anjou Pears,4925,0.001532,6.55,10.07,4.3064,Organic Large Extra Fancy Fuji Apple + Organic D'Anjou Pears
+8518,Organic Red Onion,10749,Organic Red Bell Pepper,5139,0.001599,7.67,8.94,4.2905,Organic Red Onion + Organic Red Bell Pepper
+27156,Organic Black Beans,31717,Organic Cilantro,3520,0.001095,9.26,5.06,4.2833,Organic Black Beans + Organic Cilantro
+34358,Garlic,44142,Red Onion,2098,0.000653,5.73,4.88,4.2828,Garlic + Red Onion
+28204,Organic Fuji Apple,41787,Bartlett Pears,4222,0.001313,4.71,11.92,4.2762,Organic Fuji Apple + Bartlett Pears
+10749,Organic Red Bell Pepper,30391,Organic Cucumber,6112,0.001901,10.63,7.6,4.2519,Organic Red Bell Pepper + Organic Cucumber
+4605,Yellow Onions,28842,Bunched Cilantro,4398,0.001368,6.01,9.66,4.2443,Yellow Onions + Bunched Cilantro
+28985,Michigan Organic Kale,44359,Organic Small Bunch Celery,6042,0.001879,8.96,8.87,4.2294,Michigan Organic Kale + Organic Small Bunch Celery
+8518,Organic Red Onion,21938,Green Bell Pepper,4889,0.001521,7.3,8.81,4.2289,Organic Red Onion + Green Bell Pepper
+20114,Jalapeno Peppers,29487,Roma Tomato,2241,0.000697,5.27,5.57,4.2096,Jalapeno Peppers + Roma Tomato
+8174,Organic Navel Orange,19057,Organic Large Extra Fancy Fuji Apple,4153,0.001292,9.72,5.53,4.1578,Organic Navel Orange + Organic Large Extra Fancy Fuji Apple
+20114,Jalapeno Peppers,21938,Green Bell Pepper,3049,0.000948,7.16,5.5,4.1509,Jalapeno Peppers + Green Bell Pepper
+34969,Red Vine Tomato,44142,Red Onion,3007,0.000935,5.53,6.99,4.1311,Red Vine Tomato + Red Onion
+24964,Organic Garlic,31717,Organic Cilantro,9759,0.003036,8.89,14.04,4.1107,Organic Garlic + Organic Cilantro
+27521,Organic Lacinato (Dinosaur) Kale,41220,Organic Romaine Lettuce,1919,0.000597,4.46,5.5,4.1076,Organic Lacinato (Dinosaur) Kale + Organic Romaine Lettuce
+8174,Organic Navel Orange,39877,Organic Granny Smith Apple,3208,0.000998,7.51,5.46,4.1071,Organic Navel Orange + Organic Granny Smith Apple
+8518,Organic Red Onion,34126,Organic Italian Parsley Bunch,5186,0.001613,7.74,8.55,4.1057,Organic Red Onion + Organic Italian Parsley Bunch
+16759,Organic Carrot Bunch,22935,Organic Yellow Onion,5187,0.001613,14.48,4.57,4.1043,Organic Carrot Bunch + Organic Yellow Onion
+26209,Limes,47626,Large Lemon,27403,0.008524,19.49,17.95,4.1037,Limes + Large Lemon
+16759,Organic Carrot Bunch,34126,Organic Italian Parsley Bunch,2763,0.000859,7.71,4.56,4.0907,Organic Carrot Bunch + Organic Italian Parsley Bunch
+8277,Apple Honeycrisp Organic,43122,Organic Bartlett Pear,4075,0.001268,4.79,10.81,4.0866,Apple Honeycrisp Organic + Organic Bartlett Pear
+30489,Original Hummus,42265,Organic Baby Carrots,6965,0.002166,9.77,9.06,4.0833,Original Hummus + Organic Baby Carrots
+34969,Red Vine Tomato,49683,Cucumber Kirby,6708,0.002087,12.33,6.89,4.0729,Red Vine Tomato + Cucumber Kirby
+27521,Organic Lacinato (Dinosaur) Kale,48679,Organic Garnet Sweet Potato (Yam),2827,0.000879,6.56,5.44,4.063,Organic Lacinato (Dinosaur) Kale + Organic Garnet Sweet Potato (Yam)
+21938,Green Bell Pepper,22935,Organic Yellow Onion,7949,0.002473,14.33,7.01,4.0607,Green Bell Pepper + Organic Yellow Onion
+30489,Original Hummus,43961,Organic Peeled Whole Baby Carrots,4962,0.001543,6.96,8.96,4.0398,Original Hummus + Organic Peeled Whole Baby Carrots
+30391,Organic Cucumber,41220,Organic Romaine Lettuce,3512,0.001092,4.37,10.07,4.0272,Organic Cucumber + Organic Romaine Lettuce
+45007,Organic Zucchini,48679,Organic Garnet Sweet Potato (Yam),6800,0.002115,6.49,13.09,4.0153,Organic Zucchini + Organic Garnet Sweet Potato (Yam)
+26604,Organic Blackberries,27966,Organic Raspberries,10555,0.003283,17.09,7.7,4.0097,Organic Blackberries + Organic Raspberries
+19057,Organic Large Extra Fancy Fuji Apple,43122,Organic Bartlett Pear,3524,0.001096,4.69,9.35,3.9974,Organic Large Extra Fancy Fuji Apple + Organic Bartlett Pear
+8518,Organic Red Onion,34358,Garlic,3049,0.000948,4.55,8.33,3.9963,Organic Red Onion + Garlic
+5876,Organic Lemon,27521,Organic Lacinato (Dinosaur) Kale,4685,0.001457,5.34,10.88,3.9857,Organic Lemon + Organic Lacinato (Dinosaur) Kale
+37646,Organic Gala Apples,43122,Organic Bartlett Pear,3400,0.001058,4.67,9.02,3.9795,Organic Gala Apples + Organic Bartlett Pear
+5876,Organic Lemon,34126,Organic Italian Parsley Bunch,6554,0.002039,7.47,10.81,3.9611,Organic Lemon + Organic Italian Parsley Bunch
+17794,Carrots,22935,Organic Yellow Onion,10163,0.003161,13.97,8.96,3.9603,Carrots + Organic Yellow Onion
+9839,Organic Broccoli,48679,Organic Garnet Sweet Potato (Yam),2475,0.00077,6.39,4.77,3.9565,Organic Broccoli + Organic Garnet Sweet Potato (Yam)
+15290,Orange Bell Pepper,20114,Jalapeno Peppers,2049,0.000637,5.23,4.81,3.9495,Orange Bell Pepper + Jalapeno Peppers
+5876,Organic Lemon,46667,Organic Ginger Root,5613,0.001746,6.4,10.78,3.9482,Organic Lemon + Organic Ginger Root
+22935,Organic Yellow Onion,48679,Organic Garnet Sweet Potato (Yam),7233,0.00225,6.38,13.93,3.9471,Organic Yellow Onion + Organic Garnet Sweet Potato (Yam)
+9839,Organic Broccoli,10749,Organic Red Bell Pepper,2730,0.000849,7.05,4.75,3.9431,Organic Broccoli + Organic Red Bell Pepper
+9839,Organic Broccoli,16759,Organic Carrot Bunch,1698,0.000528,4.39,4.74,3.9359,Organic Broccoli + Organic Carrot Bunch
+24964,Organic Garlic,44359,Organic Small Bunch Celery,9133,0.002841,8.32,13.41,3.928,Organic Garlic + Organic Small Bunch Celery
+41787,Bartlett Pears,45066,Honeycrisp Apple,3444,0.001071,9.73,4.32,3.9195,Bartlett Pears + Honeycrisp Apple
+27104,Fresh Cauliflower,27521,Organic Lacinato (Dinosaur) Kale,3745,0.001165,5.23,8.7,3.9053,Fresh Cauliflower + Organic Lacinato (Dinosaur) Kale
+39275,Organic Blueberries,43352,Raspberries,6987,0.002173,6.98,12.12,3.8947,Organic Blueberries + Raspberries
+22825,Organic D'Anjou Pears,39877,Organic Granny Smith Apple,3477,0.001082,7.11,5.92,3.8878,Organic D'Anjou Pears + Organic Granny Smith Apple
+22035,Organic Whole String Cheese,27344,Uncured Genoa Salami,2990,0.00093,5.01,7.21,3.8839,Organic Whole String Cheese + Uncured Genoa Salami
+9387,Granny Smith Apples,41787,Bartlett Pears,1547,0.000481,4.28,4.37,3.881,Granny Smith Apples + Bartlett Pears
+28985,Michigan Organic Kale,46667,Organic Ginger Root,4232,0.001316,6.27,8.12,3.8726,Michigan Organic Kale + Organic Ginger Root
+17794,Carrots,34126,Organic Italian Parsley Bunch,5278,0.001642,7.26,8.71,3.8482,Carrots + Organic Italian Parsley Bunch
+30391,Organic Cucumber,41950,Organic Tomato Cluster,6174,0.00192,7.68,9.6,3.8404,Organic Cucumber + Organic Tomato Cluster
+34126,Organic Italian Parsley Bunch,41220,Organic Romaine Lettuce,2525,0.000785,4.17,7.24,3.8397,Organic Italian Parsley Bunch + Organic Romaine Lettuce
+20114,Jalapeno Peppers,34969,Red Vine Tomato,2750,0.000855,6.46,5.05,3.8178,Jalapeno Peppers + Red Vine Tomato
+41220,Organic Romaine Lettuce,41950,Organic Tomato Cluster,2654,0.000826,7.61,4.13,3.8056,Organic Romaine Lettuce + Organic Tomato Cluster
+5876,Organic Lemon,8174,Organic Navel Orange,4434,0.001379,5.05,10.38,3.8027,Organic Lemon + Organic Navel Orange
+28842,Bunched Cilantro,34358,Garlic,1971,0.000613,4.33,5.38,3.8008,Bunched Cilantro + Garlic
+17794,Carrots,34358,Garlic,3142,0.000977,4.32,8.58,3.7926,Carrots + Garlic
+4210,Whole Milk,23909,2% Reduced Fat Milk,1559,0.000485,4.38,4.2,3.7922,Whole Milk + 2% Reduced Fat Milk
+5876,Organic Lemon,30391,Organic Cucumber,8307,0.002584,9.47,10.33,3.7859,Organic Lemon + Organic Cucumber
+39877,Organic Granny Smith Apple,44359,Organic Small Bunch Celery,4712,0.001466,8.02,6.92,3.7849,Organic Granny Smith Apple + Organic Small Bunch Celery
+17794,Carrots,24964,Organic Garlic,9356,0.00291,12.86,8.52,3.7669,Carrots + Organic Garlic
+17794,Carrots,46667,Organic Ginger Root,4432,0.001379,6.09,8.51,3.7608,Carrots + Organic Ginger Root
+30391,Organic Cucumber,46667,Organic Ginger Root,4896,0.001523,6.09,9.4,3.7589,Organic Cucumber + Organic Ginger Root
+22035,Organic Whole String Cheese,38689,Organic Reduced Fat Milk,2487,0.000774,4.17,6.97,3.7568,Organic Whole String Cheese + Organic Reduced Fat Milk
+10749,Organic Red Bell Pepper,31717,Organic Cilantro,4663,0.00145,8.11,6.71,3.7509,Organic Red Bell Pepper + Organic Cilantro
+29487,Roma Tomato,49683,Cucumber Kirby,4563,0.001419,11.35,4.69,3.7487,Roma Tomato + Cucumber Kirby
+10749,Organic Red Bell Pepper,22935,Organic Yellow Onion,7543,0.002346,13.12,6.65,3.7191,Organic Red Bell Pepper + Organic Yellow Onion
+28985,Michigan Organic Kale,41220,Organic Romaine Lettuce,2721,0.000846,4.03,7.8,3.7189,Michigan Organic Kale + Organic Romaine Lettuce
+16759,Organic Carrot Bunch,46667,Organic Ginger Root,2158,0.000671,6.02,4.14,3.7184,Organic Carrot Bunch + Organic Ginger Root
+8424,Broccoli Crown,46979,Asparagus,3249,0.001011,7.73,4.83,3.6924,Broccoli Crown + Asparagus
+33731,Grated Parmesan,34126,Organic Italian Parsley Bunch,3149,0.00098,6.96,5.19,3.6916,Grated Parmesan + Organic Italian Parsley Bunch
+22935,Organic Yellow Onion,46667,Organic Ginger Root,6784,0.00211,5.98,13.02,3.6915,Organic Yellow Onion + Organic Ginger Root
+8518,Organic Red Onion,26209,Limes,10814,0.003364,16.14,7.69,3.6906,Organic Red Onion + Limes
+10749,Organic Red Bell Pepper,15290,Orange Bell Pepper,2584,0.000804,4.5,6.59,3.6876,Organic Red Bell Pepper + Orange Bell Pepper
+44142,Red Onion,49683,Cucumber Kirby,4796,0.001492,11.15,4.93,3.6839,Red Onion + Cucumber Kirby
+24184,Red Peppers,44142,Red Onion,2722,0.000847,4.92,6.33,3.6807,Red Peppers + Red Onion
+24964,Organic Garlic,27521,Organic Lacinato (Dinosaur) Kale,5409,0.001682,4.93,12.56,3.6781,Organic Garlic + Organic Lacinato (Dinosaur) Kale
+8518,Organic Red Onion,48679,Organic Garnet Sweet Potato (Yam),3975,0.001236,5.93,7.65,3.673,Organic Red Onion + Organic Garnet Sweet Potato (Yam)
+27104,Fresh Cauliflower,45007,Organic Zucchini,8570,0.002666,11.97,8.18,3.6717,Fresh Cauliflower + Organic Zucchini
+4605,Yellow Onions,17794,Carrots,6073,0.001889,8.3,8.35,3.6686,Yellow Onions + Carrots
+9839,Organic Broccoli,18465,Organic Grade A Free Range Large Brown Eggs,1769,0.00055,4.57,4.42,3.6678,Organic Broccoli + Organic Grade A Free Range Large Brown Eggs
+10749,Organic Red Bell Pepper,27156,Organic Black Beans,2484,0.000773,4.32,6.54,3.6557,Organic Red Bell Pepper + Organic Black Beans
+30391,Organic Cucumber,40706,Organic Grape Tomatoes,7687,0.002391,9.56,9.12,3.6485,Organic Cucumber + Organic Grape Tomatoes
+17794,Carrots,27521,Organic Lacinato (Dinosaur) Kale,3553,0.001105,4.88,8.25,3.6464,Carrots + Organic Lacinato (Dinosaur) Kale
+5876,Organic Lemon,47209,Organic Hass Avocado,21246,0.006609,24.21,9.95,3.6446,Organic Lemon + Organic Hass Avocado
+21938,Green Bell Pepper,31717,Organic Cilantro,4369,0.001359,7.87,6.28,3.6412,Green Bell Pepper + Organic Cilantro
+8518,Organic Red Onion,46667,Organic Ginger Root,3947,0.001228,5.89,7.58,3.6368,Organic Red Onion + Organic Ginger Root
+9076,Blueberries,16797,Strawberries,9002,0.0028,16.09,6.3,3.6187,Blueberries + Strawberries
+33731,Grated Parmesan,42736,Unsalted Butter,1814,0.000564,4.01,5.09,3.6144,Grated Parmesan + Unsalted Butter
+20114,Jalapeno Peppers,24964,Organic Garlic,5250,0.001633,12.34,4.78,3.6124,Jalapeno Peppers + Organic Garlic
+27104,Fresh Cauliflower,48679,Organic Garnet Sweet Potato (Yam),4176,0.001299,5.83,8.04,3.6109,Fresh Cauliflower + Organic Garnet Sweet Potato (Yam)
+8174,Organic Navel Orange,37646,Organic Gala Apples,3484,0.001084,8.16,4.78,3.5991,Organic Navel Orange + Organic Gala Apples
+15290,Orange Bell Pepper,49683,Cucumber Kirby,4264,0.001326,10.88,4.38,3.5946,Orange Bell Pepper + Cucumber Kirby
+8174,Organic Navel Orange,8277,Apple Honeycrisp Organic,4012,0.001248,9.39,4.72,3.5511,Organic Navel Orange + Apple Honeycrisp Organic
+24184,Red Peppers,49683,Cucumber Kirby,5939,0.001847,10.74,6.1,3.5492,Red Peppers + Cucumber Kirby
+31717,Organic Cilantro,34358,Garlic,2805,0.000873,4.03,7.66,3.5423,Organic Cilantro + Garlic
+30391,Organic Cucumber,39877,Organic Granny Smith Apple,5203,0.001618,6.47,8.85,3.5398,Organic Cucumber + Organic Granny Smith Apple
+5876,Organic Lemon,24964,Organic Garlic,10602,0.003298,12.08,9.66,3.5384,Organic Lemon + Organic Garlic
+9076,Blueberries,26604,Organic Blackberries,3801,0.001182,6.79,6.16,3.5374,Blueberries + Organic Blackberries
+9839,Organic Broccoli,44359,Organic Small Bunch Celery,2901,0.000902,7.49,4.26,3.5374,Organic Broccoli + Organic Small Bunch Celery
+21938,Green Bell Pepper,41950,Organic Tomato Cluster,3921,0.00122,7.07,6.1,3.5339,Green Bell Pepper + Organic Tomato Cluster
+21938,Green Bell Pepper,27156,Organic Black Beans,2314,0.00072,4.17,6.09,3.5283,Green Bell Pepper + Organic Black Beans
+39877,Organic Granny Smith Apple,39928,Organic Kiwi,3221,0.001002,5.48,6.42,3.5135,Organic Granny Smith Apple + Organic Kiwi
+16759,Organic Carrot Bunch,48679,Organic Garnet Sweet Potato (Yam),2033,0.000632,5.68,3.91,3.513,Organic Carrot Bunch + Organic Garnet Sweet Potato (Yam)
+8424,Broccoli Crown,49683,Cucumber Kirby,4468,0.00139,10.63,4.59,3.5107,Broccoli Crown + Cucumber Kirby
+5876,Organic Lemon,44359,Organic Small Bunch Celery,6498,0.002021,7.41,9.54,3.4964,Organic Lemon + Organic Small Bunch Celery
+10749,Organic Red Bell Pepper,48679,Organic Garnet Sweet Potato (Yam),3237,0.001007,5.63,6.23,3.4854,Organic Red Bell Pepper + Organic Garnet Sweet Potato (Yam)
+24964,Organic Garlic,48679,Organic Garnet Sweet Potato (Yam),6169,0.001919,5.62,11.88,3.4783,Organic Garlic + Organic Garnet Sweet Potato (Yam)
+10749,Organic Red Bell Pepper,40706,Organic Grape Tomatoes,5240,0.00163,9.12,6.22,3.4781,Organic Red Bell Pepper + Organic Grape Tomatoes
+4605,Yellow Onions,24964,Organic Garlic,8688,0.002702,11.87,7.91,3.4774,Yellow Onions + Organic Garlic
+25890,Boneless Skinless Chicken Breasts,49683,Cucumber Kirby,5271,0.00164,10.48,5.42,3.4632,Boneless Skinless Chicken Breasts + Cucumber Kirby
+27521,Organic Lacinato (Dinosaur) Kale,30391,Organic Cucumber,3729,0.00116,8.66,4.64,3.4626,Organic Lacinato (Dinosaur) Kale + Organic Cucumber
+22935,Organic Yellow Onion,31717,Organic Cilantro,8490,0.002641,7.49,12.21,3.4612,Organic Yellow Onion + Organic Cilantro
+16759,Organic Carrot Bunch,24964,Organic Garlic,4233,0.001317,11.82,3.86,3.4608,Organic Carrot Bunch + Organic Garlic
+16759,Organic Carrot Bunch,27104,Fresh Cauliflower,2759,0.000858,7.7,3.85,3.4592,Organic Carrot Bunch + Fresh Cauliflower
+8424,Broccoli Crown,47766,Organic Avocado,7991,0.002486,19.01,4.52,3.4557,Broccoli Crown + Organic Avocado
+34358,Garlic,34969,Red Vine Tomato,2140,0.000666,5.84,3.93,3.4532,Garlic + Red Vine Tomato
+27156,Organic Black Beans,48679,Organic Garnet Sweet Potato (Yam),2120,0.000659,5.58,4.08,3.4531,Organic Black Beans + Organic Garnet Sweet Potato (Yam)
+27104,Fresh Cauliflower,46979,Asparagus,5169,0.001608,7.22,7.68,3.4502,Fresh Cauliflower + Asparagus
+10749,Organic Red Bell Pepper,44359,Organic Small Bunch Celery,4198,0.001306,7.3,6.17,3.448,Organic Red Bell Pepper + Organic Small Bunch Celery
+44359,Organic Small Bunch Celery,48679,Organic Garnet Sweet Potato (Yam),3782,0.001176,5.55,7.28,3.438,Organic Small Bunch Celery + Organic Garnet Sweet Potato (Yam)
+28985,Michigan Organic Kale,48679,Organic Garnet Sweet Potato (Yam),3744,0.001165,5.55,7.21,3.4358,Michigan Organic Kale + Organic Garnet Sweet Potato (Yam)
+8518,Organic Red Onion,41950,Organic Tomato Cluster,4597,0.00143,6.86,7.15,3.4318,Organic Red Onion + Organic Tomato Cluster
+27104,Fresh Cauliflower,44359,Organic Small Bunch Celery,5202,0.001618,7.27,7.64,3.4311,Fresh Cauliflower + Organic Small Bunch Celery
+22035,Organic Whole String Cheese,27845,Organic Whole Milk,8769,0.002728,14.69,6.36,3.4256,Organic Whole String Cheese + Organic Whole Milk
+17794,Carrots,45007,Organic Zucchini,8123,0.002527,11.17,7.75,3.4251,Carrots + Organic Zucchini
+10749,Organic Red Bell Pepper,45007,Organic Zucchini,6419,0.001997,11.17,6.12,3.4247,Organic Red Bell Pepper + Organic Zucchini
+8174,Organic Navel Orange,16759,Organic Carrot Bunch,1630,0.000507,3.82,4.55,3.4244,Organic Navel Orange + Organic Carrot Bunch
+16759,Organic Carrot Bunch,45007,Organic Zucchini,3999,0.001244,11.16,3.82,3.424,Organic Carrot Bunch + Organic Zucchini
+5876,Organic Lemon,22935,Organic Yellow Onion,10590,0.003294,12.07,9.34,3.4207,Organic Lemon + Organic Yellow Onion
+8518,Organic Red Onion,45007,Organic Zucchini,7471,0.002324,11.15,7.13,3.4206,Organic Red Onion + Organic Zucchini
+27966,Organic Raspberries,39928,Organic Kiwi,7311,0.002274,5.33,14.58,3.4202,Organic Raspberries + Organic Kiwi
+27521,Organic Lacinato (Dinosaur) Kale,31717,Organic Cilantro,3184,0.00099,7.39,4.58,3.4187,Organic Lacinato (Dinosaur) Kale + Organic Cilantro
+26209,Limes,46667,Organic Ginger Root,7775,0.002418,5.53,14.93,3.4125,Limes + Organic Ginger Root
+16759,Organic Carrot Bunch,30391,Organic Cucumber,3056,0.000951,8.53,3.8,3.4118,Organic Carrot Bunch + Organic Cucumber
+8424,Broccoli Crown,47626,Large Lemon,6801,0.002115,16.18,4.46,3.4066,Broccoli Crown + Large Lemon
+31717,Organic Cilantro,44359,Organic Small Bunch Celery,5016,0.00156,7.21,7.37,3.4064,Organic Cilantro + Organic Small Bunch Celery
+26209,Limes,44142,Red Onion,6397,0.00199,4.55,14.87,3.4003,Limes + Red Onion
+11520,Large Alfresco Eggs,33000,Pure Irish Butter,1445,0.000449,3.58,4.26,3.3932,Large Alfresco Eggs + Pure Irish Butter
+5876,Organic Lemon,16759,Organic Carrot Bunch,3311,0.00103,3.77,9.24,3.3866,Organic Lemon + Organic Carrot Bunch
+22935,Organic Yellow Onion,27521,Organic Lacinato (Dinosaur) Kale,5145,0.0016,4.54,11.95,3.386,Organic Yellow Onion + Organic Lacinato (Dinosaur) Kale
+8518,Organic Red Onion,27156,Organic Black Beans,2676,0.000832,3.99,7.04,3.3796,Organic Red Onion + Organic Black Beans
+22935,Organic Yellow Onion,27156,Organic Black Beans,4530,0.001409,3.99,11.92,3.3787,Organic Yellow Onion + Organic Black Beans
+20114,Jalapeno Peppers,24184,Red Peppers,2472,0.000769,5.81,4.47,3.3778,Jalapeno Peppers + Red Peppers
+26209,Limes,34358,Garlic,5405,0.001681,3.84,14.76,3.3745,Limes + Garlic
+27104,Fresh Cauliflower,46667,Organic Ginger Root,3910,0.001216,5.46,7.51,3.3713,Fresh Cauliflower + Organic Ginger Root
+9839,Organic Broccoli,30391,Organic Cucumber,3261,0.001014,8.42,4.06,3.368,Organic Broccoli + Organic Cucumber
+9839,Organic Broccoli,27521,Organic Lacinato (Dinosaur) Kale,1747,0.000543,4.51,4.06,3.368,Organic Broccoli + Organic Lacinato (Dinosaur) Kale
+26604,Organic Blackberries,39275,Organic Blueberries,6465,0.002011,10.47,6.46,3.3641,Organic Blackberries + Organic Blueberries
+21938,Green Bell Pepper,30391,Organic Cucumber,4664,0.001451,8.41,5.8,3.3616,Green Bell Pepper + Organic Cucumber
+4605,Yellow Onions,29487,Roma Tomato,3071,0.000955,4.2,7.64,3.3556,Yellow Onions + Roma Tomato
+27104,Fresh Cauliflower,31717,Organic Cilantro,5194,0.001616,7.26,7.47,3.3552,Fresh Cauliflower + Organic Cilantro
+7781,Organic Sticks Low Moisture Part Skim Mozzarella String Cheese,18465,Organic Grade A Free Range Large Brown Eggs,1429,0.000444,4.18,3.57,3.3536,Organic Sticks Low Moisture Part Skim Mozzarella String Cheese + Organic Grade A Free Range Large Brown Eggs
+27104,Fresh Cauliflower,34126,Organic Italian Parsley Bunch,4516,0.001405,6.31,7.45,3.3456,Fresh Cauliflower + Organic Italian Parsley Bunch
+17794,Carrots,28985,Michigan Organic Kale,5076,0.001579,6.98,7.53,3.3263,Carrots + Michigan Organic Kale
+24964,Organic Garlic,33731,Grated Parmesan,5133,0.001597,4.68,11.35,3.3229,Organic Garlic + Grated Parmesan
+24964,Organic Garlic,26209,Limes,15946,0.00496,14.53,11.34,3.3207,Organic Garlic + Limes
+20114,Jalapeno Peppers,27156,Organic Black Beans,1665,0.000518,3.91,4.38,3.3096,Jalapeno Peppers + Organic Black Beans
+22935,Organic Yellow Onion,45007,Organic Zucchini,12230,0.003804,10.78,11.67,3.3069,Organic Yellow Onion + Organic Zucchini
+15290,Orange Bell Pepper,28842,Bunched Cilantro,1833,0.00057,4.68,4.03,3.3027,Orange Bell Pepper + Bunched Cilantro
+24964,Organic Garlic,27104,Fresh Cauliflower,8069,0.00251,7.35,11.27,3.3011,Organic Garlic + Fresh Cauliflower
+46667,Organic Ginger Root,48679,Organic Garnet Sweet Potato (Yam),2777,0.000864,5.33,5.35,3.3,Organic Ginger Root + Organic Garnet Sweet Potato (Yam)
+4605,Yellow Onions,21938,Green Bell Pepper,4163,0.001295,5.69,7.5,3.2968,Yellow Onions + Green Bell Pepper
+24184,Red Peppers,45007,Organic Zucchini,5937,0.001847,10.74,5.66,3.2939,Red Peppers + Organic Zucchini
+27521,Organic Lacinato (Dinosaur) Kale,39877,Organic Granny Smith Apple,2593,0.000807,6.02,4.41,3.2931,Organic Lacinato (Dinosaur) Kale + Organic Granny Smith Apple
+4605,Yellow Onions,24184,Red Peppers,4137,0.001287,5.65,7.48,3.2883,Yellow Onions + Red Peppers
+8424,Broccoli Crown,15290,Orange Bell Pepper,1685,0.000524,4.01,4.3,3.2878,Broccoli Crown + Orange Bell Pepper
+21616,Organic Baby Arugula,34126,Organic Italian Parsley Bunch,4515,0.001404,6.2,7.45,3.2877,Organic Baby Arugula + Organic Italian Parsley Bunch
+22825,Organic D'Anjou Pears,27966,Organic Raspberries,6847,0.00213,14.0,5.0,3.2834,Organic D'Anjou Pears + Organic Raspberries
+30391,Organic Cucumber,39928,Organic Kiwi,4116,0.00128,5.12,8.21,3.2827,Organic Cucumber + Organic Kiwi
+4605,Yellow Onions,25890,Boneless Skinless Chicken Breasts,3752,0.001167,5.13,7.46,3.2787,Yellow Onions + Boneless Skinless Chicken Breasts
+10749,Organic Red Bell Pepper,39928,Organic Kiwi,2938,0.000914,5.11,5.86,3.2769,Organic Red Bell Pepper + Organic Kiwi
+19057,Organic Large Extra Fancy Fuji Apple,30391,Organic Cucumber,6157,0.001915,8.19,7.66,3.2757,Organic Large Extra Fancy Fuji Apple + Organic Cucumber
+8174,Organic Navel Orange,10749,Organic Red Bell Pepper,2501,0.000778,5.85,4.35,3.274,Organic Navel Orange + Organic Red Bell Pepper
+20995,Organic Broccoli Florets,48679,Organic Garnet Sweet Potato (Yam),1739,0.000541,5.29,3.35,3.273,Organic Broccoli Florets + Organic Garnet Sweet Potato (Yam)
+22035,Organic Whole String Cheese,30489,Original Hummus,4332,0.001347,7.26,6.07,3.2725,Organic Whole String Cheese + Original Hummus
+9839,Organic Broccoli,43122,Organic Bartlett Pear,1485,0.000462,3.84,3.94,3.27,Organic Broccoli + Organic Bartlett Pear
+30391,Organic Cucumber,47209,Organic Hass Avocado,17456,0.00543,21.71,8.17,3.2683,Organic Cucumber + Organic Hass Avocado
+26604,Organic Blackberries,39928,Organic Kiwi,3142,0.000977,5.09,6.27,3.2626,Organic Blackberries + Organic Kiwi
+8518,Organic Red Onion,40706,Organic Grape Tomatoes,5723,0.00178,8.54,6.79,3.2599,Organic Red Onion + Organic Grape Tomatoes
+22825,Organic D'Anjou Pears,30391,Organic Cucumber,3984,0.001239,8.14,4.96,3.2571,Organic D'Anjou Pears + Organic Cucumber
+8518,Organic Red Onion,30391,Organic Cucumber,5454,0.001696,8.14,6.78,3.256,Organic Red Onion + Organic Cucumber
+34358,Garlic,42736,Unsalted Butter,1322,0.000411,3.61,3.71,3.2542,Garlic + Unsalted Butter
+34126,Organic Italian Parsley Bunch,45007,Organic Zucchini,6432,0.002001,10.61,6.14,3.2541,Organic Italian Parsley Bunch + Organic Zucchini
+30391,Organic Cucumber,48679,Organic Garnet Sweet Potato (Yam),4224,0.001314,5.25,8.13,3.2522,Organic Cucumber + Organic Garnet Sweet Potato (Yam)
+22035,Organic Whole String Cheese,43122,Organic Bartlett Pear,2276,0.000708,3.81,6.04,3.2518,Organic Whole String Cheese + Organic Bartlett Pear
+8518,Organic Red Onion,41220,Organic Romaine Lettuce,2357,0.000733,3.52,6.76,3.2437,Organic Red Onion + Organic Romaine Lettuce
+9839,Organic Broccoli,22825,Organic D'Anjou Pears,1911,0.000594,4.94,3.91,3.2437,Organic Broccoli + Organic D'Anjou Pears
+16759,Organic Carrot Bunch,31717,Organic Cilantro,2512,0.000781,7.01,3.61,3.2428,Organic Carrot Bunch + Organic Cilantro
+22825,Organic D'Anjou Pears,48679,Organic Garnet Sweet Potato (Yam),2560,0.000796,5.23,4.93,3.2394,Organic D'Anjou Pears + Organic Garnet Sweet Potato (Yam)
+21938,Green Bell Pepper,24964,Organic Garlic,6137,0.001909,11.06,5.59,3.2392,Green Bell Pepper + Organic Garlic
+39928,Organic Kiwi,46906,Grape White/Green Seedless,1966,0.000612,3.92,5.04,3.2345,Organic Kiwi + Grape White/Green Seedless
+8518,Organic Red Onion,22935,Organic Yellow Onion,7642,0.002377,11.41,6.74,3.2335,Organic Red Onion + Organic Yellow Onion
+3957,100% Raw Coconut Water,33198,Sparkling Natural Mineral Water,1637,0.000509,4.31,3.81,3.228,100% Raw Coconut Water + Sparkling Natural Mineral Water
+8174,Organic Navel Orange,48679,Organic Garnet Sweet Potato (Yam),2222,0.000691,5.2,4.28,3.2194,Organic Navel Orange + Organic Garnet Sweet Potato (Yam)
+8424,Broccoli Crown,45066,Honeycrisp Apple,3353,0.001043,7.97,4.2,3.2141,Broccoli Crown + Honeycrisp Apple
+9387,Granny Smith Apples,28204,Organic Fuji Apple,3242,0.001008,8.96,3.62,3.2134,Granny Smith Apples + Organic Fuji Apple
+9839,Organic Broccoli,39928,Organic Kiwi,1940,0.000603,5.01,3.87,3.2125,Organic Broccoli + Organic Kiwi
+5876,Organic Lemon,10749,Organic Red Bell Pepper,5035,0.001566,5.74,8.76,3.2091,Organic Lemon + Organic Red Bell Pepper
+24964,Organic Garlic,28985,Michigan Organic Kale,7389,0.002298,6.73,10.95,3.2082,Organic Garlic + Michigan Organic Kale
+17794,Carrots,27104,Fresh Cauliflower,5196,0.001616,7.14,7.26,3.2082,Carrots + Fresh Cauliflower
+39877,Organic Granny Smith Apple,46667,Organic Ginger Root,3051,0.000949,5.19,5.86,3.2037,Organic Granny Smith Apple + Organic Ginger Root
+5450,Small Hass Avocado,29487,Roma Tomato,1963,0.000611,4.0,4.88,3.2014,Small Hass Avocado + Roma Tomato
+30391,Organic Cucumber,34126,Organic Italian Parsley Bunch,4839,0.001505,6.02,7.98,3.1922,Organic Cucumber + Organic Italian Parsley Bunch
+44359,Organic Small Bunch Celery,45007,Organic Zucchini,7072,0.0022,10.39,6.75,3.1854,Organic Small Bunch Celery + Organic Zucchini
+25890,Boneless Skinless Chicken Breasts,44142,Red Onion,2141,0.000666,4.26,4.98,3.1829,Boneless Skinless Chicken Breasts + Red Onion
+8518,Organic Red Onion,27521,Organic Lacinato (Dinosaur) Kale,2850,0.000887,4.25,6.62,3.176,Organic Red Onion + Organic Lacinato (Dinosaur) Kale
+25890,Boneless Skinless Chicken Breasts,34358,Garlic,1818,0.000565,3.62,4.96,3.1745,Boneless Skinless Chicken Breasts + Garlic
+31717,Organic Cilantro,41220,Organic Romaine Lettuce,2394,0.000745,3.44,6.86,3.1743,Organic Cilantro + Organic Romaine Lettuce
+21938,Green Bell Pepper,44359,Organic Small Bunch Celery,3728,0.00116,6.72,5.48,3.1724,Green Bell Pepper + Organic Small Bunch Celery
+34358,Garlic,47626,Large Lemon,5515,0.001715,15.06,3.61,3.1718,Garlic + Large Lemon
+21616,Organic Baby Arugula,40706,Organic Grape Tomatoes,6048,0.001881,8.3,7.18,3.1687,Organic Baby Arugula + Organic Grape Tomatoes
+4799,Shredded Parmesan,42736,Unsalted Butter,1278,0.000398,3.51,3.58,3.1677,Shredded Parmesan + Unsalted Butter
+17794,Carrots,41220,Organic Romaine Lettuce,2494,0.000776,3.43,7.15,3.1609,Carrots + Organic Romaine Lettuce
+27966,Organic Raspberries,39275,Organic Blueberries,13462,0.004187,9.82,13.45,3.1558,Organic Raspberries + Organic Blueberries
+10749,Organic Red Bell Pepper,20114,Jalapeno Peppers,2396,0.000745,4.17,5.63,3.1484,Organic Red Bell Pepper + Jalapeno Peppers
+9839,Organic Broccoli,28985,Michigan Organic Kale,2556,0.000795,6.6,3.79,3.1464,Organic Broccoli + Michigan Organic Kale
+10749,Organic Red Bell Pepper,41220,Organic Romaine Lettuce,1960,0.00061,3.41,5.62,3.1431,Organic Red Bell Pepper + Organic Romaine Lettuce
+4799,Shredded Parmesan,22035,Organic Whole String Cheese,2121,0.00066,5.83,3.55,3.1421,Shredded Parmesan + Organic Whole String Cheese
+4605,Yellow Onions,15290,Orange Bell Pepper,2801,0.000871,3.83,7.15,3.1406,Yellow Onions + Orange Bell Pepper
+9839,Organic Broccoli,46979,Asparagus,2539,0.00079,6.56,3.77,3.1332,Organic Broccoli + Asparagus
+20114,Jalapeno Peppers,46667,Organic Ginger Root,2160,0.000672,5.08,4.15,3.1324,Jalapeno Peppers + Organic Ginger Root
+22935,Organic Yellow Onion,27104,Fresh Cauliflower,7911,0.002461,6.97,11.05,3.1323,Organic Yellow Onion + Fresh Cauliflower
+47626,Large Lemon,49683,Cucumber Kirby,14457,0.004497,9.47,14.86,3.1286,Large Lemon + Cucumber Kirby
+8518,Organic Red Onion,24184,Red Peppers,3603,0.001121,5.38,6.52,3.1281,Organic Red Onion + Red Peppers
+30391,Organic Cucumber,45007,Organic Zucchini,8189,0.002547,10.19,7.81,3.1241,Organic Cucumber + Organic Zucchini
+20114,Jalapeno Peppers,25890,Boneless Skinless Chicken Breasts,2079,0.000647,4.88,4.13,3.1232,Jalapeno Peppers + Boneless Skinless Chicken Breasts
+31717,Organic Cilantro,41950,Organic Tomato Cluster,4339,0.00135,6.24,6.75,3.1209,Organic Cilantro + Organic Tomato Cluster
+27521,Organic Lacinato (Dinosaur) Kale,45007,Organic Zucchini,4377,0.001361,10.16,4.18,3.117,Organic Lacinato (Dinosaur) Kale + Organic Zucchini
+37646,Organic Gala Apples,39928,Organic Kiwi,3537,0.0011,4.86,7.05,3.1132,Organic Gala Apples + Organic Kiwi
+8518,Organic Red Onion,28842,Bunched Cilantro,2953,0.000919,4.41,6.49,3.1128,Organic Red Onion + Bunched Cilantro
+34126,Organic Italian Parsley Bunch,34358,Garlic,2148,0.000668,3.54,5.87,3.1109,Organic Italian Parsley Bunch + Garlic
+20114,Jalapeno Peppers,47626,Large Lemon,6287,0.001956,14.77,4.12,3.1108,Jalapeno Peppers + Large Lemon
+27104,Fresh Cauliflower,28985,Michigan Organic Kale,4668,0.001452,6.52,6.92,3.1082,Fresh Cauliflower + Michigan Organic Kale
+19057,Organic Large Extra Fancy Fuji Apple,39928,Organic Kiwi,3642,0.001133,4.85,7.26,3.1067,Organic Large Extra Fancy Fuji Apple + Organic Kiwi
+21938,Green Bell Pepper,45007,Organic Zucchini,5619,0.001748,10.13,5.36,3.106,Green Bell Pepper + Organic Zucchini
+8277,Apple Honeycrisp Organic,39877,Organic Granny Smith Apple,4824,0.001501,5.67,8.21,3.1033,Apple Honeycrisp Organic + Organic Granny Smith Apple
+28985,Michigan Organic Kale,30391,Organic Cucumber,5232,0.001627,7.76,6.51,3.102,Michigan Organic Kale + Organic Cucumber
+22935,Organic Yellow Onion,41950,Organic Tomato Cluster,7034,0.002188,6.2,10.94,3.1011,Organic Yellow Onion + Organic Tomato Cluster
+26209,Limes,27156,Organic Black Beans,5154,0.001603,3.67,13.56,3.1006,Limes + Organic Black Beans
+4605,Yellow Onions,47626,Large Lemon,10757,0.003346,14.7,7.05,3.0962,Yellow Onions + Large Lemon
+8424,Broccoli Crown,27104,Fresh Cauliflower,2898,0.000901,6.89,4.05,3.0956,Broccoli Crown + Fresh Cauliflower
+45007,Organic Zucchini,46979,Asparagus,6790,0.002112,6.48,10.09,3.0951,Organic Zucchini + Asparagus
+22935,Organic Yellow Onion,24184,Red Peppers,6035,0.001877,5.32,10.92,3.0943,Organic Yellow Onion + Red Peppers
+16759,Organic Carrot Bunch,41220,Organic Romaine Lettuce,1200,0.000373,3.35,3.44,3.0883,Organic Carrot Bunch + Organic Romaine Lettuce
+4920,Seedless Red Grapes,41787,Bartlett Pears,2805,0.000873,3.39,7.92,3.0795,Seedless Red Grapes + Bartlett Pears
+15290,Orange Bell Pepper,29487,Roma Tomato,1507,0.000469,3.85,3.75,3.0745,Orange Bell Pepper + Roma Tomato
+8518,Organic Red Onion,27104,Fresh Cauliflower,4577,0.001424,6.83,6.39,3.0686,Organic Red Onion + Fresh Cauliflower
+28842,Bunched Cilantro,47626,Large Lemon,6634,0.002064,14.57,4.35,3.0685,Bunched Cilantro + Large Lemon
+30391,Organic Cucumber,31717,Organic Cilantro,5331,0.001658,6.63,7.67,3.0664,Organic Cucumber + Organic Cilantro
+4920,Seedless Red Grapes,45066,Honeycrisp Apple,6291,0.001957,7.61,7.89,3.0662,Seedless Red Grapes + Honeycrisp Apple
+8424,Broccoli Crown,41787,Bartlett Pears,1420,0.000442,3.38,4.01,3.0661,Broccoli Crown + Bartlett Pears
+43122,Organic Bartlett Pear,48679,Organic Garnet Sweet Potato (Yam),1866,0.00058,4.95,3.59,3.0632,Organic Bartlett Pear + Organic Garnet Sweet Potato (Yam)
+9839,Organic Broccoli,19057,Organic Large Extra Fancy Fuji Apple,2773,0.000863,7.16,3.69,3.0631,Organic Broccoli + Organic Large Extra Fancy Fuji Apple
+8518,Organic Red Onion,34969,Red Vine Tomato,3472,0.00108,5.18,6.38,3.0626,Organic Red Onion + Red Vine Tomato
+196,Soda,12341,Hass Avocados,1712,0.000533,4.78,3.41,3.062,Soda + Hass Avocados
+30391,Organic Cucumber,43122,Organic Bartlett Pear,2887,0.000898,3.59,7.66,3.0619,Organic Cucumber + Organic Bartlett Pear
+8174,Organic Navel Orange,43122,Organic Bartlett Pear,1534,0.000477,3.59,4.07,3.0615,Organic Navel Orange + Organic Bartlett Pear
+8174,Organic Navel Orange,30391,Organic Cucumber,3270,0.001017,7.65,4.07,3.061,Organic Navel Orange + Organic Cucumber
+5876,Organic Lemon,8518,Organic Red Onion,5595,0.00174,6.38,8.35,3.0602,Organic Lemon + Organic Red Onion
+10749,Organic Red Bell Pepper,27521,Organic Lacinato (Dinosaur) Kale,2356,0.000733,4.1,5.47,3.0594,Organic Red Bell Pepper + Organic Lacinato (Dinosaur) Kale
+10749,Organic Red Bell Pepper,16759,Organic Carrot Bunch,1959,0.000609,3.41,5.47,3.0586,Organic Red Bell Pepper + Organic Carrot Bunch
+41950,Organic Tomato Cluster,47209,Organic Hass Avocado,13061,0.004063,20.32,6.12,3.058,Organic Tomato Cluster + Organic Hass Avocado
+31506,Extra Virgin Olive Oil,34358,Garlic,1750,0.000544,3.48,4.78,3.0573,Extra Virgin Olive Oil + Garlic
+28985,Michigan Organic Kale,34126,Organic Italian Parsley Bunch,3883,0.001208,5.76,6.41,3.053,Michigan Organic Kale + Organic Italian Parsley Bunch
+8424,Broccoli Crown,29487,Roma Tomato,1602,0.000498,3.81,3.98,3.0463,Broccoli Crown + Roma Tomato
+15290,Orange Bell Pepper,46979,Asparagus,2498,0.000777,6.37,3.71,3.0458,Orange Bell Pepper + Asparagus
+10749,Organic Red Bell Pepper,34126,Organic Italian Parsley Bunch,3300,0.001026,5.74,5.44,3.0444,Organic Red Bell Pepper + Organic Italian Parsley Bunch
+44142,Red Onion,47626,Large Lemon,6217,0.001934,14.46,4.07,3.0442,Red Onion + Large Lemon
+8518,Organic Red Onion,44359,Organic Small Bunch Celery,4314,0.001342,6.44,6.34,3.0407,Organic Red Onion + Organic Small Bunch Celery
+41787,Bartlett Pears,46906,Grape White/Green Seedless,1304,0.000406,3.68,3.35,3.0376,Bartlett Pears + Grape White/Green Seedless
+10749,Organic Red Bell Pepper,27104,Fresh Cauliflower,3886,0.001209,6.76,5.43,3.036,Organic Red Bell Pepper + Fresh Cauliflower
+8518,Organic Red Onion,16759,Organic Carrot Bunch,2265,0.000705,3.38,6.32,3.0347,Organic Red Onion + Organic Carrot Bunch
+34969,Red Vine Tomato,41220,Organic Romaine Lettuce,1789,0.000556,3.29,5.13,3.0311,Red Vine Tomato + Organic Romaine Lettuce
+24964,Organic Garlic,28842,Bunched Cilantro,4712,0.001466,4.29,10.35,3.0308,Organic Garlic + Bunched Cilantro
+9839,Organic Broccoli,41220,Organic Romaine Lettuce,1272,0.000396,3.29,3.65,3.0284,Organic Broccoli + Organic Romaine Lettuce
+34126,Organic Italian Parsley Bunch,48679,Organic Garnet Sweet Potato (Yam),2964,0.000922,4.89,5.71,3.0264,Organic Italian Parsley Bunch + Organic Garnet Sweet Potato (Yam)
+28842,Bunched Cilantro,34969,Red Vine Tomato,2331,0.000725,5.12,4.28,3.0251,Bunched Cilantro + Red Vine Tomato
+21137,Organic Strawberries,39928,Organic Kiwi,12486,0.003884,4.72,24.9,3.0246,Organic Strawberries + Organic Kiwi
+41220,Organic Romaine Lettuce,46667,Organic Ginger Root,1709,0.000532,4.9,3.28,3.0246,Organic Romaine Lettuce + Organic Ginger Root
+21137,Organic Strawberries,43122,Organic Bartlett Pear,9388,0.00292,3.55,24.9,3.0241,Organic Strawberries + Organic Bartlett Pear
+20995,Organic Broccoli Florets,27156,Organic Black Beans,1175,0.000365,3.57,3.09,3.0226,Organic Broccoli Florets + Organic Black Beans
+10749,Organic Red Bell Pepper,24964,Organic Garlic,5931,0.001845,10.32,5.4,3.0215,Organic Red Bell Pepper + Organic Garlic
+20114,Jalapeno Peppers,22935,Organic Yellow Onion,4535,0.001411,10.66,4.0,3.0201,Jalapeno Peppers + Organic Yellow Onion
+9839,Organic Broccoli,22935,Organic Yellow Onion,4125,0.001283,10.65,3.64,3.0195,Organic Broccoli + Organic Yellow Onion
+22035,Organic Whole String Cheese,22825,Organic D'Anjou Pears,2739,0.000852,4.59,5.6,3.0166,Organic Whole String Cheese + Organic D'Anjou Pears
+5876,Organic Lemon,26209,Limes,11578,0.003601,13.19,8.23,3.0165,Organic Lemon + Limes
+4605,Yellow Onions,8424,Broccoli Crown,2885,0.000897,3.94,6.86,3.015,Yellow Onions + Broccoli Crown
+39877,Organic Granny Smith Apple,46906,Grape White/Green Seedless,2147,0.000668,3.65,5.51,3.0132,Organic Granny Smith Apple + Grape White/Green Seedless
+8518,Organic Red Onion,17794,Carrots,4562,0.001419,6.81,6.27,3.0101,Organic Red Onion + Carrots
+8424,Broccoli Crown,24184,Red Peppers,2176,0.000677,5.18,3.94,3.0099,Broccoli Crown + Red Peppers
+25890,Boneless Skinless Chicken Breasts,42736,Unsalted Butter,1678,0.000522,3.34,4.7,3.0081,Boneless Skinless Chicken Breasts + Unsalted Butter
+8424,Broccoli Crown,48679,Organic Garnet Sweet Potato (Yam),2041,0.000635,4.85,3.93,3.0048,Broccoli Crown + Organic Garnet Sweet Potato (Yam)
+8174,Organic Navel Orange,9839,Organic Broccoli,1545,0.000481,3.62,3.99,3.0027,Organic Navel Orange + Organic Broccoli
+21137,Organic Strawberries,27966,Organic Raspberries,33863,0.010533,12.79,24.71,3.001,Organic Strawberries + Organic Raspberries
+28842,Bunched Cilantro,47766,Organic Avocado,7503,0.002334,16.48,4.24,2.9963,Bunched Cilantro + Organic Avocado
+24964,Organic Garlic,41220,Organic Romaine Lettuce,3568,0.00111,3.25,10.23,2.9962,Organic Garlic + Organic Romaine Lettuce
+28199,"Clementines, Bag",46906,Grape White/Green Seedless,1445,0.000449,3.63,3.71,2.9932,"Clementines, Bag + Grape White/Green Seedless"
+4605,Yellow Onions,26209,Limes,9573,0.002978,13.08,6.81,2.9911,Yellow Onions + Limes
+34126,Organic Italian Parsley Bunch,47626,Large Lemon,8606,0.002677,14.2,5.64,2.9897,Organic Italian Parsley Bunch + Large Lemon
+10749,Organic Red Bell Pepper,22825,Organic D'Anjou Pears,2613,0.000813,4.55,5.34,2.9875,Organic Red Bell Pepper + Organic D'Anjou Pears
+47209,Organic Hass Avocado,48679,Organic Garnet Sweet Potato (Yam),10292,0.003201,4.82,19.82,2.9826,Organic Hass Avocado + Organic Garnet Sweet Potato (Yam)
+21903,Organic Baby Spinach,48679,Organic Garnet Sweet Potato (Yam),11654,0.003625,4.82,22.44,2.9818,Organic Baby Spinach + Organic Garnet Sweet Potato (Yam)
+28985,Michigan Organic Kale,39877,Organic Granny Smith Apple,3677,0.001144,5.45,6.26,2.9817,Michigan Organic Kale + Organic Granny Smith Apple
+8424,Broccoli Crown,28842,Bunched Cilantro,1770,0.000551,4.21,3.89,2.9726,Broccoli Crown + Bunched Cilantro
+24964,Organic Garlic,45007,Organic Zucchini,10634,0.003308,9.69,10.14,2.9709,Organic Garlic + Organic Zucchini
+8174,Organic Navel Orange,44359,Organic Small Bunch Celery,2686,0.000835,6.29,3.94,2.9685,Organic Navel Orange + Organic Small Bunch Celery
+4799,Shredded Parmesan,33731,Grated Parmesan,1519,0.000472,4.18,3.36,2.9685,Shredded Parmesan + Grated Parmesan
+11520,Large Alfresco Eggs,48679,Organic Garnet Sweet Potato (Yam),1936,0.000602,4.79,3.73,2.9679,Large Alfresco Eggs + Organic Garnet Sweet Potato (Yam)
+46979,Asparagus,48679,Organic Garnet Sweet Potato (Yam),3223,0.001003,4.79,6.21,2.965,Asparagus + Organic Garnet Sweet Potato (Yam)
+24184,Red Peppers,28842,Bunched Cilantro,2321,0.000722,4.2,5.1,2.9646,Red Peppers + Bunched Cilantro
+5876,Organic Lemon,41950,Organic Tomato Cluster,5200,0.001617,5.93,8.09,2.9635,Organic Lemon + Organic Tomato Cluster
+15290,Orange Bell Pepper,34969,Red Vine Tomato,1964,0.000611,5.01,3.61,2.9613,Orange Bell Pepper + Red Vine Tomato
+9839,Organic Broccoli,45007,Organic Zucchini,3738,0.001163,9.65,3.57,2.9608,Organic Broccoli + Organic Zucchini
+28842,Bunched Cilantro,49683,Cucumber Kirby,4076,0.001268,8.95,4.19,2.9575,Bunched Cilantro + Cucumber Kirby
+42265,Organic Baby Carrots,46906,Grape White/Green Seedless,2755,0.000857,3.58,7.07,2.9556,Organic Baby Carrots + Grape White/Green Seedless
+38689,Organic Reduced Fat Milk,42736,Unsalted Butter,1169,0.000364,3.28,3.28,2.9546,Organic Reduced Fat Milk + Unsalted Butter
+4799,Shredded Parmesan,21616,Organic Baby Arugula,2433,0.000757,6.69,3.34,2.9534,Shredded Parmesan + Organic Baby Arugula
+28842,Bunched Cilantro,34126,Organic Italian Parsley Bunch,2534,0.000788,5.57,4.18,2.9515,Bunched Cilantro + Organic Italian Parsley Bunch
+25890,Boneless Skinless Chicken Breasts,46979,Asparagus,3105,0.000966,6.18,4.61,2.9506,Boneless Skinless Chicken Breasts + Asparagus
+41950,Organic Tomato Cluster,46667,Organic Ginger Root,3063,0.000953,4.76,5.88,2.9407,Organic Tomato Cluster + Organic Ginger Root
+27156,Organic Black Beans,27521,Organic Lacinato (Dinosaur) Kale,1497,0.000466,3.94,3.48,2.9407,Organic Black Beans + Organic Lacinato (Dinosaur) Kale
+28842,Bunched Cilantro,46667,Organic Ginger Root,2169,0.000675,4.76,4.16,2.9403,Bunched Cilantro + Organic Ginger Root
+4799,Shredded Parmesan,24964,Organic Garlic,3651,0.001136,10.04,3.33,2.9402,Shredded Parmesan + Organic Garlic
+9839,Organic Broccoli,42265,Organic Baby Carrots,2722,0.000847,7.03,3.54,2.9391,Organic Broccoli + Organic Baby Carrots
+24964,Organic Garlic,47626,Large Lemon,15318,0.004765,13.95,10.03,2.9386,Organic Garlic + Large Lemon
+39928,Organic Kiwi,48679,Organic Garnet Sweet Potato (Yam),2379,0.00074,4.74,4.58,2.9368,Organic Kiwi + Organic Garnet Sweet Potato (Yam)
+10749,Organic Red Bell Pepper,47209,Organic Hass Avocado,11212,0.003488,19.5,5.25,2.9358,Organic Red Bell Pepper + Organic Hass Avocado
+25890,Boneless Skinless Chicken Breasts,33731,Grated Parmesan,2074,0.000645,4.12,4.58,2.9313,Boneless Skinless Chicken Breasts + Grated Parmesan
+20114,Jalapeno Peppers,34126,Organic Italian Parsley Bunch,2351,0.000731,5.52,3.88,2.9294,Jalapeno Peppers + Organic Italian Parsley Bunch
+24964,Organic Garlic,27156,Organic Black Beans,3798,0.001181,3.46,9.99,2.9269,Organic Garlic + Organic Black Beans
+41787,Bartlett Pears,49683,Cucumber Kirby,3132,0.000974,8.84,3.22,2.9218,Bartlett Pears + Cucumber Kirby
+21938,Green Bell Pepper,41220,Organic Romaine Lettuce,1757,0.000547,3.17,5.04,2.9192,Green Bell Pepper + Organic Romaine Lettuce
+39877,Organic Granny Smith Apple,43122,Organic Bartlett Pear,2011,0.000626,3.42,5.33,2.917,Organic Granny Smith Apple + Organic Bartlett Pear
+31717,Organic Cilantro,48679,Organic Garnet Sweet Potato (Yam),3270,0.001017,4.7,6.3,2.9113,Organic Cilantro + Organic Garnet Sweet Potato (Yam)
+22825,Organic D'Anjou Pears,46906,Grape White/Green Seedless,1726,0.000537,3.53,4.43,2.9109,Organic D'Anjou Pears + Grape White/Green Seedless
+43122,Organic Bartlett Pear,46906,Grape White/Green Seedless,1330,0.000414,3.53,3.41,2.9098,Organic Bartlett Pear + Grape White/Green Seedless
+47766,Organic Avocado,49683,Cucumber Kirby,15570,0.004843,8.81,16.0,2.9091,Organic Avocado + Cucumber Kirby
+47626,Large Lemon,47766,Organic Avocado,24417,0.007595,15.99,13.81,2.9082,Large Lemon + Organic Avocado
+8277,Apple Honeycrisp Organic,10749,Organic Red Bell Pepper,4421,0.001375,5.2,7.69,2.9081,Apple Honeycrisp Organic + Organic Red Bell Pepper
+16759,Organic Carrot Bunch,19057,Organic Large Extra Fancy Fuji Apple,2435,0.000757,6.8,3.24,2.9075,Organic Carrot Bunch + Organic Large Extra Fancy Fuji Apple
+8277,Apple Honeycrisp Organic,27966,Organic Raspberries,10530,0.003275,12.39,7.68,2.9052,Apple Honeycrisp Organic + Organic Raspberries
+5876,Organic Lemon,39877,Organic Granny Smith Apple,4645,0.001445,5.29,7.9,2.8953,Organic Lemon + Organic Granny Smith Apple
+22935,Organic Yellow Onion,41220,Organic Romaine Lettuce,3555,0.001106,3.13,10.19,2.8893,Organic Yellow Onion + Organic Romaine Lettuce
+25890,Boneless Skinless Chicken Breasts,34969,Red Vine Tomato,2458,0.000765,4.89,4.52,2.8885,Boneless Skinless Chicken Breasts + Red Vine Tomato
+19057,Organic Large Extra Fancy Fuji Apple,39877,Organic Granny Smith Apple,3969,0.001235,5.28,6.75,2.8881,Organic Large Extra Fancy Fuji Apple + Organic Granny Smith Apple
+8277,Apple Honeycrisp Organic,22035,Organic Whole String Cheese,4557,0.001417,5.36,7.64,2.8875,Apple Honeycrisp Organic + Organic Whole String Cheese
+17794,Carrots,48679,Organic Garnet Sweet Potato (Yam),3391,0.001055,4.66,6.53,2.8857,Carrots + Organic Garnet Sweet Potato (Yam)
+24184,Red Peppers,34969,Red Vine Tomato,2698,0.000839,4.88,4.96,2.8838,Red Peppers + Red Vine Tomato
+21137,Organic Strawberries,39275,Organic Blueberries,23756,0.007389,8.98,23.74,2.8837,Organic Strawberries + Organic Blueberries
+27966,Organic Raspberries,43122,Organic Bartlett Pear,4635,0.001442,3.38,12.29,2.8834,Organic Raspberries + Organic Bartlett Pear
+41950,Organic Tomato Cluster,44359,Organic Small Bunch Celery,3925,0.001221,6.11,5.76,2.8826,Organic Tomato Cluster + Organic Small Bunch Celery
+8518,Organic Red Onion,28985,Michigan Organic Kale,4048,0.001259,6.04,6.0,2.8803,Organic Red Onion + Michigan Organic Kale
+7781,Organic Sticks Low Moisture Part Skim Mozzarella String Cheese,22825,Organic D'Anjou Pears,1499,0.000466,4.38,3.06,2.8799,Organic Sticks Low Moisture Part Skim Mozzarella String Cheese + Organic D'Anjou Pears
+5876,Organic Lemon,41220,Organic Romaine Lettuce,2738,0.000852,3.12,7.85,2.8765,Organic Lemon + Organic Romaine Lettuce
+8277,Apple Honeycrisp Organic,9839,Organic Broccoli,2945,0.000916,3.46,7.61,2.876,Apple Honeycrisp Organic + Organic Broccoli
+4605,Yellow Onions,34126,Organic Italian Parsley Bunch,3966,0.001234,5.42,6.54,2.8746,Yellow Onions + Organic Italian Parsley Bunch
+8174,Organic Navel Orange,47209,Organic Hass Avocado,8152,0.002536,19.08,3.82,2.8722,Organic Navel Orange + Organic Hass Avocado
+17794,Carrots,24184,Red Peppers,3592,0.001117,4.94,6.5,2.872,Carrots + Red Peppers
+31717,Organic Cilantro,45007,Organic Zucchini,6509,0.002025,9.36,6.21,2.8714,Organic Cilantro + Organic Zucchini
+28985,Michigan Organic Kale,31717,Organic Cilantro,4186,0.001302,6.21,6.02,2.8698,Michigan Organic Kale + Organic Cilantro
+8174,Organic Navel Orange,27966,Organic Raspberries,5226,0.001626,12.23,3.81,2.8694,Organic Navel Orange + Organic Raspberries
+43122,Organic Bartlett Pear,47209,Organic Hass Avocado,7180,0.002233,19.04,3.36,2.8662,Organic Bartlett Pear + Organic Hass Avocado
+27521,Organic Lacinato (Dinosaur) Kale,35951,Organic Unsweetened Almond Milk,2219,0.00069,5.15,3.83,2.8611,Organic Lacinato (Dinosaur) Kale + Organic Unsweetened Almond Milk
+22825,Organic D'Anjou Pears,47209,Organic Hass Avocado,9290,0.00289,18.99,4.35,2.8587,Organic D'Anjou Pears + Organic Hass Avocado
+39928,Organic Kiwi,45007,Organic Zucchini,4673,0.001454,9.32,4.46,2.8583,Organic Kiwi + Organic Zucchini
+40706,Organic Grape Tomatoes,45007,Organic Zucchini,7852,0.002442,9.32,7.49,2.8582,Organic Grape Tomatoes + Organic Zucchini
+5876,Organic Lemon,31717,Organic Cilantro,5408,0.001682,6.16,7.78,2.85,Organic Lemon + Organic Cilantro
+26209,Limes,47766,Organic Avocado,22010,0.006846,15.65,12.45,2.8457,Limes + Organic Avocado
+34358,Garlic,49683,Cucumber Kirby,3153,0.000981,8.61,3.24,2.8446,Garlic + Cucumber Kirby
+4799,Shredded Parmesan,25890,Boneless Skinless Chicken Breasts,1617,0.000503,4.45,3.22,2.8431,Shredded Parmesan + Boneless Skinless Chicken Breasts
+45066,Honeycrisp Apple,46906,Grape White/Green Seedless,2749,0.000855,3.45,7.05,2.8429,Honeycrisp Apple + Grape White/Green Seedless
+24184,Red Peppers,46979,Asparagus,3288,0.001023,5.95,4.89,2.842,Red Peppers + Asparagus
+8174,Organic Navel Orange,27521,Organic Lacinato (Dinosaur) Kale,1626,0.000506,3.81,3.78,2.8412,Organic Navel Orange + Organic Lacinato (Dinosaur) Kale
+37646,Organic Gala Apples,39877,Organic Granny Smith Apple,3781,0.001176,5.19,6.43,2.8389,Organic Gala Apples + Organic Granny Smith Apple
+39928,Organic Kiwi,47209,Organic Hass Avocado,9456,0.002941,18.86,4.43,2.8386,Organic Kiwi + Organic Hass Avocado
+46906,Grape White/Green Seedless,49683,Cucumber Kirby,3347,0.001041,8.59,3.44,2.8373,Grape White/Green Seedless + Cucumber Kirby
+21938,Green Bell Pepper,44142,Red Onion,2106,0.000655,3.8,4.9,2.8372,Green Bell Pepper + Red Onion
+8518,Organic Red Onion,21616,Organic Baby Arugula,4304,0.001339,6.43,5.91,2.8363,Organic Red Onion + Organic Baby Arugula
+27966,Organic Raspberries,47209,Organic Hass Avocado,25793,0.008023,18.82,12.08,2.8327,Organic Raspberries + Organic Hass Avocado
+27104,Fresh Cauliflower,30391,Organic Cucumber,5060,0.001574,7.07,6.29,2.8267,Fresh Cauliflower + Organic Cucumber
+45007,Organic Zucchini,46667,Organic Ginger Root,4795,0.001492,4.57,9.21,2.8234,Organic Zucchini + Organic Ginger Root
+16759,Organic Carrot Bunch,34358,Garlic,1150,0.000358,3.21,3.14,2.8187,Organic Carrot Bunch + Garlic
+26209,Limes,34126,Organic Italian Parsley Bunch,7473,0.002325,5.31,12.33,2.8182,Limes + Organic Italian Parsley Bunch
+27344,Uncured Genoa Salami,30489,Original Hummus,2591,0.000806,6.25,3.63,2.8164,Uncured Genoa Salami + Original Hummus
+20114,Jalapeno Peppers,47766,Organic Avocado,6582,0.002047,15.46,3.72,2.8118,Jalapeno Peppers + Organic Avocado
+25890,Boneless Skinless Chicken Breasts,47766,Organic Avocado,7768,0.002416,15.45,4.39,2.809,Boneless Skinless Chicken Breasts + Organic Avocado
+8277,Apple Honeycrisp Organic,16759,Organic Carrot Bunch,2660,0.000827,3.13,7.43,2.808,Apple Honeycrisp Organic + Organic Carrot Bunch
+16759,Organic Carrot Bunch,22825,Organic D'Anjou Pears,1530,0.000476,4.27,3.13,2.8073,Organic Carrot Bunch + Organic D'Anjou Pears
+21616,Organic Baby Arugula,27521,Organic Lacinato (Dinosaur) Kale,2738,0.000852,3.76,6.36,2.8064,Organic Baby Arugula + Organic Lacinato (Dinosaur) Kale
+4605,Yellow Onions,34969,Red Vine Tomato,3474,0.001081,4.75,6.38,2.8055,Yellow Onions + Red Vine Tomato
+21938,Green Bell Pepper,46667,Organic Ginger Root,2522,0.000784,4.55,4.84,2.8055,Green Bell Pepper + Organic Ginger Root
+39928,Organic Kiwi,41950,Organic Tomato Cluster,2812,0.000875,5.61,4.37,2.8045,Organic Kiwi + Organic Tomato Cluster
+22035,Organic Whole String Cheese,33731,Grated Parmesan,2355,0.000733,3.95,5.21,2.8045,Organic Whole String Cheese + Grated Parmesan
+15290,Orange Bell Pepper,45007,Organic Zucchini,3583,0.001115,9.14,3.42,2.8041,Orange Bell Pepper + Organic Zucchini
+16759,Organic Carrot Bunch,28985,Michigan Organic Kale,2106,0.000655,5.88,3.12,2.8023,Organic Carrot Bunch + Michigan Organic Kale
+16759,Organic Carrot Bunch,41950,Organic Tomato Cluster,2006,0.000624,5.6,3.12,2.8005,Organic Carrot Bunch + Organic Tomato Cluster
+8277,Apple Honeycrisp Organic,39928,Organic Kiwi,3713,0.001155,4.37,7.41,2.8001,Apple Honeycrisp Organic + Organic Kiwi
+9839,Organic Broccoli,17794,Carrots,2453,0.000763,6.34,3.37,2.8001,Organic Broccoli + Carrots
+41950,Organic Tomato Cluster,45007,Organic Zucchini,5869,0.001826,9.13,5.6,2.7999,Organic Tomato Cluster + Organic Zucchini
+24184,Red Peppers,27156,Organic Black Beans,1829,0.000569,3.31,4.81,2.7991,Red Peppers + Organic Black Beans
+22935,Organic Yellow Onion,30391,Organic Cucumber,7929,0.002466,6.99,9.86,2.7955,Organic Yellow Onion + Organic Cucumber
+25890,Boneless Skinless Chicken Breasts,28842,Bunched Cilantro,1990,0.000619,3.96,4.37,2.7946,Boneless Skinless Chicken Breasts + Bunched Cilantro
+19057,Organic Large Extra Fancy Fuji Apple,22035,Organic Whole String Cheese,3898,0.001212,5.19,6.53,2.7938,Organic Large Extra Fancy Fuji Apple + Organic Whole String Cheese
+16797,Strawberries,26604,Organic Blackberries,7666,0.002385,5.36,12.42,2.7921,Strawberries + Organic Blackberries
+28985,Michigan Organic Kale,45007,Organic Zucchini,6138,0.001909,9.1,5.86,2.791,Michigan Organic Kale + Organic Zucchini
+3957,100% Raw Coconut Water,24838,Unsweetened Almondmilk,1633,0.000508,4.3,3.29,2.7891,100% Raw Coconut Water + Unsweetened Almondmilk
+34126,Organic Italian Parsley Bunch,41950,Organic Tomato Cluster,3381,0.001052,5.58,5.26,2.789,Organic Italian Parsley Bunch + Organic Tomato Cluster
+8518,Organic Red Onion,15290,Orange Bell Pepper,2275,0.000708,3.4,5.81,2.7862,Organic Red Onion + Orange Bell Pepper
+24964,Organic Garlic,41950,Organic Tomato Cluster,6110,0.001901,5.57,9.5,2.7833,Organic Garlic + Organic Tomato Cluster
+22935,Organic Yellow Onion,33731,Grated Parmesan,4442,0.001382,3.92,9.82,2.7831,Organic Yellow Onion + Grated Parmesan
+8174,Organic Navel Orange,13176,Bag of Organic Bananas,14019,0.004361,32.82,3.69,2.7803,Organic Navel Orange + Bag of Organic Bananas
+40706,Organic Grape Tomatoes,49683,Cucumber Kirby,7087,0.002204,8.41,7.28,2.7788,Organic Grape Tomatoes + Cucumber Kirby
+4605,Yellow Onions,42736,Unsalted Butter,2254,0.000701,3.08,6.32,2.7767,Yellow Onions + Unsalted Butter
+24964,Organic Garlic,42736,Unsalted Butter,3381,0.001052,3.08,9.48,2.776,Organic Garlic + Unsalted Butter
+46979,Asparagus,47626,Large Lemon,8868,0.002758,13.18,5.81,2.7757,Asparagus + Large Lemon
+28985,Michigan Organic Kale,49683,Cucumber Kirby,5660,0.001761,8.39,5.82,2.7722,Michigan Organic Kale + Cucumber Kirby
+23909,2% Reduced Fat Milk,29487,Roma Tomato,1286,0.0004,3.47,3.2,2.7719,2% Reduced Fat Milk + Roma Tomato
+10749,Organic Red Bell Pepper,17794,Carrots,3604,0.001121,6.27,4.95,2.7711,Organic Red Bell Pepper + Carrots
+26209,Limes,34969,Red Vine Tomato,6595,0.002051,4.69,12.12,2.771,Limes + Red Vine Tomato
+5785,Organic Reduced Fat 2% Milk,43122,Organic Bartlett Pear,1554,0.000483,3.25,4.12,2.7696,Organic Reduced Fat 2% Milk + Organic Bartlett Pear
+24184,Red Peppers,41220,Organic Romaine Lettuce,1660,0.000516,3.0,4.76,2.7682,Red Peppers + Organic Romaine Lettuce
+4920,Seedless Red Grapes,46906,Grape White/Green Seedless,2774,0.000863,3.35,7.12,2.7675,Seedless Red Grapes + Grape White/Green Seedless
+18465,Organic Grade A Free Range Large Brown Eggs,47209,Organic Hass Avocado,7355,0.002288,18.37,3.44,2.7646,Organic Grade A Free Range Large Brown Eggs + Organic Hass Avocado
+34969,Red Vine Tomato,47766,Organic Avocado,8268,0.002572,15.2,4.68,2.763,Red Vine Tomato + Organic Avocado
+27845,Organic Whole Milk,42736,Unsalted Butter,4227,0.001315,3.07,11.85,2.7628,Organic Whole Milk + Unsalted Butter
+22035,Organic Whole String Cheese,37646,Organic Gala Apples,3734,0.001161,6.26,5.13,2.7614,Organic Whole String Cheese + Organic Gala Apples
+19057,Organic Large Extra Fancy Fuji Apple,44359,Organic Small Bunch Celery,4394,0.001367,5.85,6.45,2.7601,Organic Large Extra Fancy Fuji Apple + Organic Small Bunch Celery
+28985,Michigan Organic Kale,47626,Large Lemon,8839,0.002749,13.1,5.79,2.7598,Michigan Organic Kale + Large Lemon
+22035,Organic Whole String Cheese,42265,Organic Baby Carrots,3939,0.001225,6.6,5.12,2.7596,Organic Whole String Cheese + Organic Baby Carrots
+30391,Organic Cucumber,37646,Organic Gala Apples,5025,0.001563,6.25,6.9,2.7586,Organic Cucumber + Organic Gala Apples
+20114,Jalapeno Peppers,28985,Michigan Organic Kale,2462,0.000766,5.78,3.65,2.7572,Jalapeno Peppers + Michigan Organic Kale
+16797,Strawberries,41787,Bartlett Pears,4340,0.00135,3.04,12.26,2.7562,Strawberries + Bartlett Pears
+34126,Organic Italian Parsley Bunch,42736,Unsalted Butter,1853,0.000576,3.06,5.2,2.7552,Organic Italian Parsley Bunch + Unsalted Butter
+7781,Organic Sticks Low Moisture Part Skim Mozzarella String Cheese,39928,Organic Kiwi,1470,0.000457,4.3,2.93,2.7552,Organic Sticks Low Moisture Part Skim Mozzarella String Cheese + Organic Kiwi
+21903,Organic Baby Spinach,28985,Michigan Organic Kale,13979,0.004348,5.78,20.73,2.7542,Organic Baby Spinach + Michigan Organic Kale
+4605,Yellow Onions,5450,Small Hass Avocado,3071,0.000955,4.2,6.26,2.7526,Yellow Onions + Small Hass Avocado
+21616,Organic Baby Arugula,24964,Organic Garlic,6841,0.002128,9.39,6.23,2.7508,Organic Baby Arugula + Organic Garlic
+21137,Organic Strawberries,22035,Organic Whole String Cheese,13513,0.004203,5.11,22.64,2.7504,Organic Strawberries + Organic Whole String Cheese
+17794,Carrots,31717,Organic Cilantro,4325,0.001345,5.95,6.22,2.7496,Carrots + Organic Cilantro
+8277,Apple Honeycrisp Organic,47209,Organic Hass Avocado,15519,0.004827,18.25,7.27,2.7475,Apple Honeycrisp Organic + Organic Hass Avocado
+40706,Organic Grape Tomatoes,43961,Organic Peeled Whole Baby Carrots,3986,0.00124,4.73,7.2,2.7468,Organic Grape Tomatoes + Organic Peeled Whole Baby Carrots
+9839,Organic Broccoli,24964,Organic Garlic,3628,0.001129,9.37,3.3,2.744,Organic Broccoli + Organic Garlic
+24838,Unsweetened Almondmilk,27521,Organic Lacinato (Dinosaur) Kale,1822,0.000567,3.68,4.23,2.7438,Unsweetened Almondmilk + Organic Lacinato (Dinosaur) Kale
+43122,Organic Bartlett Pear,45007,Organic Zucchini,3373,0.001049,8.95,3.22,2.7436,Organic Bartlett Pear + Organic Zucchini
+27104,Fresh Cauliflower,41220,Organic Romaine Lettuce,2130,0.000663,2.98,6.11,2.743,Fresh Cauliflower + Organic Romaine Lettuce

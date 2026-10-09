@@ -1,0 +1,24 @@
+﻿check,actual,expected,difference,status
+Order count,3214874.0,3214874.0,0.0,PASS
+Customer count,206209.0,206209.0,0.0,PASS
+Item total,32434489.0,32434489.0,0.0,PASS
+Reorder total,19126536.0,19126536.0,0.0,PASS
+First-time total,13307953.0,13307953.0,0.0,PASS
+Product purchase total,32434489.0,32434489.0,0.0,PASS
+Product reorder total,19126536.0,19126536.0,0.0,PASS
+Department purchase total,32434489.0,32434489.0,0.0,PASS
+Department reorder total,19126536.0,19126536.0,0.0,PASS
+Aisle purchase total,32434489.0,32434489.0,0.0,PASS
+Aisle reorder total,19126536.0,19126536.0,0.0,PASS
+Customer item total,32434489.0,32434489.0,0.0,PASS
+Customer reorder total,19126536.0,19126536.0,0.0,PASS
+Customer order total,3214874.0,3214874.0,0.0,PASS
+Orders by day total,3214874.0,3214874.0,0.0,PASS
+Orders by hour total,3214874.0,3214874.0,0.0,PASS
+Orders by day-hour total,3214874.0,3214874.0,0.0,PASS
+Basket distribution total,3214874.0,3214874.0,0.0,PASS
+Reorder summary total items,32434489.0,32434489.0,0.0,PASS
+Reorder summary reordered items,19126536.0,19126536.0,0.0,PASS
+Reorder summary first-time items,13307953.0,13307953.0,0.0,PASS
+Average basket size,10.09,10.088883421247614,0.0011165787523861326,PASS
+Overall reorder rate %,58.97,58.969746679221615,0.00025332077838413625,PASS

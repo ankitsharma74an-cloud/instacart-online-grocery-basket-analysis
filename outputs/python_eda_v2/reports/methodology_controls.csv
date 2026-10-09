@@ -1,0 +1,10 @@
+﻿item,value
+Primary historical analysis set,PRIOR
+TRAIN role,Reference / validation only
+TEST role,Not treated as completed historical transactions
+Revenue/profit analysis,Not performed
+Standard RFM,Not performed
+Demographic segmentation,Not supported by dataset
+Confirmed true churn,Not claimed
+Market Basket universe,Top 100 products
+Minimum pair orders,100

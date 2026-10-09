@@ -1,0 +1,10 @@
+﻿behavior_segment,customers,customer_pct
+High Frequency / High Reorder,49610,24.06
+Low Frequency / Low Reorder,49573,24.04
+Regular Frequency / Regular Reorder,30443,14.76
+Low Frequency / Regular Reorder,20382,9.88
+High Frequency / Regular Reorder,17858,8.66
+Regular Frequency / Low Reorder,16804,8.15
+Regular Frequency / High Reorder,15482,7.51
+Low Frequency / High Reorder,3636,1.76
+High Frequency / Low Reorder,2421,1.17

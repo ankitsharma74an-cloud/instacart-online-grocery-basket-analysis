@@ -1,0 +1,57 @@
+ .gitignore                                         |      92 [32m+[m
+ Power BI/Instacart Analytics.pbix                  |     Bin [31m0[m -> [32m74235716[m bytes
+ Power BI/desktop.ini                               |       2 [32m+[m
+ Python/Python eda.py                               |    1359 [32m+[m
+ README.md                                          |     529 [32m+[m
+ SQL/01_create_source_tables.sql                    |      82 [32m+[m
+ SQL/02_load_source_data.sql                        |     142 [32m+[m
+ SQL/03_source_constraints_and_qa.sql               |     329 [32m+[m
+ SQL/04_controlled_sql_cleaning.sql                 |     811 [32m+[m
+ SQL/05_clean_layer_qa.sql                          |     318 [32m+[m
+ SQL/06_analytical_layer.sql                        |     837 [32m+[m
+ SQL/07_analytical_qa_and_reconciliation.sql        |     362 [32m+[m
+ ...ther missing is an actual source department.sql |     105 [32m+[m
+ assets/banner/project_banner.png                   |     Bin [31m0[m -> [32m1865726[m bytes
+ .../01 \342\200\224 Executive Overview.png"        |     Bin [31m0[m -> [32m559975[m bytes
+ .../02 \342\200\224 Customer Behavior.png"         |     Bin [31m0[m -> [32m546239[m bytes
+ ...2\200\224 Product & Department Performance.png" |     Bin [31m0[m -> [32m610220[m bytes
+ ...42\200\224 Market Basket & Recommendations.png" |     Bin [31m0[m -> [32m607693[m bytes
+ .../05 \342\200\224 Business Recommendations.png"  |     Bin [31m0[m -> [32m871967[m bytes
+ assets/diagrams/00_Data model.png                  |     Bin [31m0[m -> [32m147322[m bytes
+ docs/business_recommendations.md                   |     268 [32m+[m
+ docs/data_dictionary.md                            |     280 [32m+[m
+ docs/data_quality_report.md                        |     298 [32m+[m
+ docs/kpi_definitions.md                            |     680 [32m+[m
+ docs/methodology.md                                |     347 [32m+[m
+ .../charts/customer_behavior_segments.png          |     Bin [31m0[m -> [32m79930[m bytes
+ .../charts/customer_order_frequency.png            |     Bin [31m0[m -> [32m29216[m bytes
+ .../charts/department_purchase_count.png           |     Bin [31m0[m -> [32m56806[m bytes
+ .../charts/department_reorder_rate.png             |     Bin [31m0[m -> [32m60464[m bytes
+ .../charts/market_basket_top_lift.png              |     Bin [31m0[m -> [32m124531[m bytes
+ outputs/python_eda_v2/charts/orders_by_day.png     |     Bin [31m0[m -> [32m34358[m bytes
+ outputs/python_eda_v2/charts/orders_by_hour.png    |     Bin [31m0[m -> [32m58261[m bytes
+ outputs/python_eda_v2/charts/top_20_aisles.png     |     Bin [31m0[m -> [32m71899[m bytes
+ outputs/python_eda_v2/charts/top_20_products.png   |     Bin [31m0[m -> [32m87316[m bytes
+ .../csv/customer_behavioral_segment_summary.csv    |      10 [32m+[m
+ .../python_eda_v2/csv/department_performance.csv   |      22 [32m+[m
+ outputs/python_eda_v2/csv/executive_kpis.csv       |       2 [32m+[m
+ .../csv/market_basket_associations.csv             |     501 [32m+[m
+ outputs/python_eda_v2/csv/orders_by_day.csv        |       8 [32m+[m
+ outputs/python_eda_v2/csv/orders_by_hour.csv       |      25 [32m+[m
+ outputs/python_eda_v2/csv/reorder_summary.csv      |       2 [32m+[m
+ .../python_eda_v2/reports/business_highlights.csv  |      12 [32m+[m
+ .../reports/final_python_analytical_validation.csv |      28 [32m+[m
+ .../python_eda_v2/reports/methodology_controls.csv |      10 [32m+[m
+ .../reports/python_analytical_missingness.csv      |      63 [32m+[m
+ outputs/python_eda_v2/reports/run_manifest.csv     |      12 [32m+[m
+ .../reports/sql_analytical_object_validation.csv   |      15 [32m+[m
+ .../reports/sql_python_cross_validation.csv        |      24 [32m+[m
+ raw data/README.md                                 |      47 [32m+[m
+ raw data/aisles.csv                                |     135 [32m+[m
+ raw data/departments.csv                           |      22 [32m+[m
+ raw data/order_products__prior.csv                 |     Bin [31m0[m -> [32m577550706[m bytes
+ raw data/order_products__train.csv                 | 1384618 [32m+++++++[m
+ raw data/orders.csv                                | 3421084 [32m+++++++++++++++++[m
+ raw data/products.csv                              |   49689 [32m+[m
+ requirements.txt                                   |       9 [32m+[m
+ 56 files changed, 4863179 insertions(+)

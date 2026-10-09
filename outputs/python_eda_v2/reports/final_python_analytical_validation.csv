@@ -1,0 +1,28 @@
+﻿check,value,status
+Exactly one KPI row,1.0,PASS
+7 day rows,7.0,PASS
+24 hour rows,24.0,PASS
+Day-hour rows <= 168,168.0,PASS
+113 basket distribution rows,113.0,PASS
+99 reorder sequence rows,99.0,PASS
+"49,677 product rows",49677.0,PASS
+21 department rows,21.0,PASS
+134 aisle rows,134.0,PASS
+"206,209 customer rows",206209.0,PASS
+100 Market Basket universe rows,100.0,PASS
+No basket_size < 1,0.0,PASS
+Customer total_items >= total_orders,0.0,PASS
+Customer reordered_items <= total_items,0.0,PASS
+Product reorder_count <= purchase_count,0.0,PASS
+Customer segment rows reconcile,206209.0,PASS
+Customer segment summary reconciles,206209.0,PASS
+Customer segment percentages sum ~100,99.99,PASS
+Banana purchase regression,472565.0,PASS
+Produce purchase regression,9479291.0,PASS
+No duplicate Market Basket pairs,0.0,PASS
+Product A < Product B,0.0,PASS
+Support within 0-1,0.0,PASS
+Confidence within 0-100,0.0,PASS
+Lift > 0,0.0,PASS
+Pair-order threshold respected,0.0,PASS
+Market Basket output <= 500,500.0,PASS

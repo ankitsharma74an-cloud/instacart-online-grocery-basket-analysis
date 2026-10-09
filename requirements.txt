@@ -1,0 +1,9 @@
+# Instacart Online Grocery Basket Analysis
+# Python dependencies used by the production Python EDA,
+# validation, reconciliation, and market-basket workflow.
+
+pandas
+numpy
+matplotlib
+scipy
+psycopg2-binary

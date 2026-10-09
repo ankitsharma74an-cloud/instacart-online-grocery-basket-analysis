@@ -1,0 +1,12 @@
+﻿metric,value,context
+Total Customers,206209,Distinct PRIOR customers
+Total Orders,3214874,PRIOR orders
+Total Items,32434489,PRIOR product-purchase rows
+Average Basket Size,10.09,Items per PRIOR order
+Overall Reorder Rate %,58.97,Reordered item purchases / all item purchases
+Highest Order-Volume Day,Sunday,557772
+Highest Order-Volume Hour,10,271885
+Most Purchased Product,Banana,472565
+Highest Purchase-Volume Department,produce,9479291
+Weighted Average Purchase Gap,10.71,Days since prior order; first orders excluded
+Strongest Observed Product Association,Sparkling Lemon Water + Lime Sparkling Water,"Lift=18.0024; orders together=8,546"

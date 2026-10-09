@@ -1,0 +1,15 @@
+﻿object,exists,status
+analytics.reorder_summary,True,PASS
+analytics.orders_by_day,True,PASS
+analytics.orders_by_hour,True,PASS
+analytics.orders_by_day_hour,True,PASS
+analytics.order_basket_summary,True,PASS
+analytics.basket_size_distribution,True,PASS
+analytics.reorder_by_sequence,True,PASS
+analytics.product_performance,True,PASS
+analytics.department_performance,True,PASS
+analytics.aisle_performance,True,PASS
+analytics.customer_behavior,True,PASS
+analytics.customer_frequency,True,PASS
+analytics.customer_purchase_gap_distribution,True,PASS
+analytics.market_basket_product_universe,True,PASS
