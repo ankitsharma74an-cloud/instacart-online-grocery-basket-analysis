@@ -518,7 +518,7 @@ Potential future work includes deeper temporal analysis, further recommendation-
 
 **Ankit Sharma**  
 Data Analyst   
-LinkedIn: [linkedin.com/in/ankit-sharma-DA](https://www.linkedin.com/in/ankit-sharma-DA)
+LinkedIn: [linkedin.com/in/ankit-sharma-da](https://www.linkedin.com/in/ankit-sharma-DA)
 
 Gmail: [ankitsharma74an@gmail.com](https://myaccount.google.com/email?continue=https%3A%2F%2Fmyaccount.google.com%2Fpersonal-info%3Futm_source%3DOGB%26utm_medium%3Dact%26hl%3Den_GB)
 
