@@ -47,7 +47,7 @@ Product-pair associations evaluated using support, confidence, lift, and minimum
 
 ![Business Recommendations](assets/dashboard/05%20%E2%80%94%20Business%20Recommendations.png)
 
-Business actions tied to validated findings. The project has four core analytical Power BI pages plus a dedicated Business Recommendations visual/asset. This fifth image is not an additional analytical Power BI page.
+Business actions tied to validated findings. The project has four core analytical Power BI pages plus a dedicated Business Recommendations visual/asset. 
 
 ## Data Model
 
@@ -462,8 +462,8 @@ Instacart Online Grocery Basket Analysis/
 │   ├── analysis/
 │   └── visualization/
 ├── Power BI/
-│   ├── Instacart Analytics.pbix
-│   └── dax/
+│   └── Instacart Analytics.pbix
+│   
 ├── outputs/
 │   └── Python_eda_v2/
 │       ├── charts/
@@ -517,8 +517,9 @@ Potential future work includes deeper temporal analysis, further recommendation-
 ## Author
 
 **Ankit Sharma**  
-Data Analyst | Business Analytics  
+Data Analyst   
 LinkedIn: [linkedin.com/in/ankit-sharma-DA](https://www.linkedin.com/in/ankit-sharma-DA)
+Gmail: [ankitsharma74an@gmail.com](https://myaccount.google.com/email?continue=https%3A%2F%2Fmyaccount.google.com%2Fpersonal-info%3Futm_source%3DOGB%26utm_medium%3Dact%26hl%3Den_GB)
 
 ## License and Dataset Attribution
 
